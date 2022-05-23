@@ -1,9 +1,11 @@
 /* My custom style */
 
 body {
-    background-color: #1e1e1e;
+    background-color: #1f1f1f;
 }
 
 h1 {
-    color: maroon;
+    font-size: 2.5rem;
+  color: #1f1f1f;
+  text-shadow: .75px .5px 20px #ff0000, 70px 50px 5px #0000FF, 200px 175px 20px #686868, .75px 160px 3px #282828;
 }
