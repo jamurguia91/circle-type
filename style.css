@@ -1,6 +1,10 @@
 /* My custom style */
 
 body {
+    display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
     background-color: #1f1f1f;
 }
 
