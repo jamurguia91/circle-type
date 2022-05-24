@@ -1,5 +1,6 @@
 // my scripts
 
+// Load ES module
 import CircleType from `circletype`;
 // import CircleType from `circletype`;
 import * as circletype from "https://cdn.skypack.dev/circletype@2.3.0";
